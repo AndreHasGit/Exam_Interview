@@ -12,7 +12,9 @@ COMPUTER PROGRAMING:
 5. Advanced Js: Natural Simulations
 6. Html/Js: Making webpages interactive 
 7. Html/Js: Making webpages interactive with JQuery
-<Br>
-COMPUTER SCIENCE:<br>
-  <br>
-1. Algorithms 
+8. Algorithms <br>
+  
+FreeCodeCamp (Challenges):
+1. Introduction To The Basic Data Structure Challenges
+2. Introduction To The Object Oriented Programing Challenges
+3. Intermediate Algorithm Scripting
