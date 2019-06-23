@@ -1,2 +1,3 @@
 # Exam_Interview
-My repository created for my exam interview. Contains all modules + some extra.
+Andrew Gorceas Repository, containing all modules completed during the course. 
+Below are all the modules that I have completed:
