@@ -13,5 +13,5 @@ COMPUTER PROGRAMING:
 6. Html/Js: Making webpages interactive 
 7. Html/Js: Making webpages interactive with JQuery
 <Br>
-COMPUTER SCIENCE:
+COMPUTER SCIENCE:<br>
 1. Algorithms 
