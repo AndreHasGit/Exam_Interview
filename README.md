@@ -17,7 +17,7 @@ COMPUTER PROGRAMING / COMPUTER SCIENCE:
 FREECODECAMP (CHALLENGES):
 1. Introduction To The Basic Data Structure Challenges
 2. Introduction To The Object Oriented Programing Challenges
-3. Intermediate Algorithm Scripting
+3. Introduction To The Intermediate Algorithm Scripting Challenges
 
 FREECODECAMP (PROJECTS):
 1. Palindrome Checker
