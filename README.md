@@ -14,3 +14,4 @@ COMPUTER PROGRAMING:
 7. Html/Js: Making webpages interactive with JQuery
 <Br>
 COMPUTER SCIENCE:
+1. Algorithms 
