@@ -4,7 +4,7 @@ Below are all the modules that I have completed: <br>
 <br>
 Khan Academy:<br>
 <br>
-COMPUTER PROGRAMING:
+COMPUTER PROGRAMING / COMPUTER SCIENCE:
 1. Intro to Js: Drawing and Animation
 2. Intro to Html/Css: Making Webpages
 3. Intro to SQL: Querying and Managing data
