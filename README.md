@@ -2,7 +2,7 @@
 Andrew Gorceas Repository, containing all modules completed during the course. <br>
 Below are all the modules that I have completed: <br>
 <br>
-Khan Academy:
+Khan Academy:<br>
 <br>
 COMPUTER PROGRAMING:
 1. Intro to Js: Drawing and Animation
