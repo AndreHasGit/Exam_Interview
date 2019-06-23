@@ -14,7 +14,15 @@ COMPUTER PROGRAMING:
 7. Html/Js: Making webpages interactive with JQuery
 8. Algorithms <br>
   
-FreeCodeCamp (Challenges):
+FREECODECAMP (CHALLENGES):
 1. Introduction To The Basic Data Structure Challenges
 2. Introduction To The Object Oriented Programing Challenges
 3. Intermediate Algorithm Scripting
+
+FREECODECAMP (PROJECTS):
+1. Palindrome Checker
+2. Roman Numeral Converter
+
+FREECODECAMP (HALFWAY COMPLETED CHALLANGES):
+1. Functional Programing
+2. Basic Algorithm Scripting 
